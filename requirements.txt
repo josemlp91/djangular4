@@ -25,7 +25,7 @@ idna==2.1                 # via cryptography
 netmiko==0.5.1
 paramiko==2.0.1           # via netmiko, scp
 Pillow==3.3.0
-psycopg2==2.6.2
+psycopg2==2.7
 pubnub==3.8.1
 pyasn1==0.1.9             # via cryptography, paramiko
 pycparser==2.14           # via cffi
