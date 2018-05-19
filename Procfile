@@ -1,0 +1,1 @@
+web: gunicorn djanguar4.wsgi
